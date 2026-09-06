@@ -1,5 +1,7 @@
 # Topological characterisation of shoe-sole materials from IR/ATR spectra
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22537164.svg)](https://doi.org/10.5281/zenodo.22537164)
+
 Persistent homology applied to the infrared spectra of 39 composite materials
 (thermoplastic polyurethane, polyurethane, thermoplastic rubber, EVA, PVC and
 natural rubber) used in footwear soles.
