@@ -75,7 +75,7 @@ def main() -> int:
           .agg(["count", "min", "max"]).to_string())
 
     # -- persist the curves on a common grid --------------------------------
-    curves = thermal.read_tg_curves(xlsx)
+    curves = thermal.load_tg_curves(source)
     grid = np.linspace(40.0, 800.0, 600)
     sheets = labels["sheet"].astype(str).tolist()
     mass = np.vstack([np.interp(grid, *curves[s]) for s in sheets])

@@ -202,10 +202,16 @@ def agreement(intensity, wavenumber, descriptors, config) -> pd.DataFrame:
 
 
 def report_agreement(frame: pd.DataFrame) -> None:
-    summary = frame[frame.get("summary").fillna(False)] if "summary" in frame else frame
+    def flag(column):
+        # The columns round-trip through CSV as object dtype with blanks, and
+        # newer pandas no longer downcasts them on fillna. Casting explicitly
+        # keeps the masks boolean, which is what the exclusions below rely on.
+        return column.astype("boolean").fillna(False).astype(bool)
+
+    summary = frame[flag(frame.get("summary"))] if "summary" in frame else frame
     detail = frame[frame["persistence"].notna()]
-    matched = detail[detail["matched"]]
-    interior = matched[~matched["essential"] & ~matched["edge"].fillna(False)]
+    matched = detail[flag(detail["matched"])]
+    interior = matched[~flag(matched["essential"]) & ~flag(matched["edge"])]
     delta = (interior["persistence"] - interior["prominence"]).abs()
 
     print(f"  topological features per spectrum : {summary['n_topological'].mean():.1f}")

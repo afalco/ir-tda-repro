@@ -19,6 +19,8 @@ from scipy.signal import savgol_filter
 
 __all__ = [
     "read_tg_curves",
+    "read_tg_curves_native",
+    "load_tg_curves",
     "thermal_features",
     "parse_hardness",
     "TG_TARGETS",
@@ -99,6 +101,20 @@ def _finalise_tg(
     order = np.argsort(temperature)
     T, W = temperature[order], mass[order]
     return T, 100.0 * W / W[:5].mean()
+
+
+def load_tg_curves(path: str | Path) -> dict[str, tuple[np.ndarray, np.ndarray]]:
+    """Read the TG runs from whichever source is given.
+
+    Dispatches on the suffix: ``.npz`` is the redistributable extract written by
+    step 0, anything else the characterisation workbook. The two give the same
+    curves, so every caller should go through here rather than committing to one
+    of the two readers.
+    """
+    source = Path(path)
+    if source.suffix.lower() == ".npz":
+        return read_tg_curves_native(source)
+    return read_tg_curves(source)
 
 
 def read_tg_curves_native(
@@ -223,11 +239,7 @@ def build_targets(
     ``xlsx_path`` is either the characterisation workbook or the ``.npz``
     extract of step 0; the two give the same curves.
     """
-    source = Path(xlsx_path)
-    if source.suffix.lower() == ".npz":
-        curves = read_tg_curves_native(source)
-    else:
-        curves = read_tg_curves(source)
+    curves = load_tg_curves(xlsx_path)
 
     rows = []
     for _, meta in labels.iterrows():

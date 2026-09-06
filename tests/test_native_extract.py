@@ -37,8 +37,12 @@ def test_native_spectra_reproduce_processed():
     spectra = dataset.load_native_spectra(NATIVE_SPECTRA, REFERENCES)
     shipped = np.load(PROCESSED / "spectra.npz", allow_pickle=True)
 
-    assert np.array_equal(spectra.wavenumber, shipped["wavenumber"])
-    assert np.array_equal(spectra.intensity, shipped["intensity"])
+    # Not bit-for-bit: np.interp differs in the last bit between platforms and
+    # numpy builds, which is irrelevant to every quantity computed from it.
+    np.testing.assert_allclose(spectra.wavenumber, shipped["wavenumber"],
+                               rtol=0, atol=1e-12)
+    np.testing.assert_allclose(spectra.intensity, shipped["intensity"],
+                               rtol=1e-12, atol=1e-12)
     assert list(spectra.metadata["sheet"]) == [str(s) for s in shipped["sheet"]]
 
 
