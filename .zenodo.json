@@ -1,0 +1,51 @@
+{
+  "title": "ir-tda: topological descriptors of infrared spectra for formulated polymer compounds",
+  "upload_type": "software",
+  "license": "MIT",
+  "description": "<p>Persistent homology applied to the IR/ATR spectra of 39 industrial footwear sole compounds (thermoplastic polyurethane, polyurethane, thermoplastic rubber, EVA, PVC and natural rubber).</p><p>The library computes the exact degree-0 persistence diagram of the superlevel-set filtration of a spectrum by union-find, in which every point is one absorption band and its persistence is the band&rsquo;s topological prominence. It implements the classical persistence image and a position-aware variant over wavenumber and lifetime &mdash; the topological fingerprint image &mdash; which restores the chemical information that a one-dimensional persistence diagram discards by construction.</p><p>Eighteen numbered scripts reproduce every figure, table and number in the accompanying manuscript from a single command: spectrum extraction, unsupervised identification, prediction of thermal processing properties, robustness to instrumental artefacts and multimodal infrared plus thermogravimetric descriptors, together with the controls added in revision &mdash; conventional peak descriptors under a fixed vectorisation, pre-processing and alignment baselines (Savitzky&ndash;Golay derivatives, asymmetric least-squares baseline, EMSC, interval alignment, Fourier magnitude), a Vietoris&ndash;Rips comparison, a jackknife+ conformal margin expressed as a moulding decision, and repeated nested cross-validation. Thirty-four tests; a full run takes a few minutes.</p><p>The characterisation workbook is the property of the laboratory that produced the study and is not redistributed. The extract of it that the analysis actually reads &mdash; per worksheet, the wavenumber and absorbance columns on the instrument&rsquo;s own grid and the temperature and mass of the thermogravimetric run &mdash; is included, so that every step of the pipeline reproduces, the extraction from the raw records included.</p>",
+  "creators": [
+    {
+      "name": "Esteve-Campello, Miriam",
+      "affiliation": "Departamento de Matemáticas, Física y Ciencias Tecnológicas, Universidad Cardenal Herrera-CEU, CEU Universities, Valencia, Spain",
+      "orcid": "0000-0002-5908-0581"
+    },
+    {
+      "name": "Macià-Titos, Miguel",
+      "affiliation": "Desínope 323, Martín i Soler 18, Planta 2, Oficina 9, 03203 Elche, Spain"
+    },
+    {
+      "name": "Martínez-Ibáñez, Pascual",
+      "affiliation": "Desínope 323, Martín i Soler 18, Planta 2, Oficina 9, 03203 Elche, Spain",
+      "orcid": "0000-0003-0837-507X"
+    },
+    {
+      "name": "Falcó, Antonio",
+      "affiliation": "Departamento de Matemáticas, Física y Ciencias Tecnológicas, Universidad Cardenal Herrera-CEU, CEU Universities, Valencia, Spain",
+      "orcid": "0000-0001-6225-0935"
+    }
+  ],
+  "keywords": [
+    "topological data analysis",
+    "persistent homology",
+    "persistence images",
+    "infrared spectroscopy",
+    "vibrational spectroscopy",
+    "chemometrics",
+    "polymer compounds",
+    "material identification",
+    "thermogravimetric analysis",
+    "conformal prediction"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/afalco/ir-tda-repro",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.21795105",
+      "relation": "isNewVersionOf",
+      "scheme": "doi"
+    }
+  ]
+}

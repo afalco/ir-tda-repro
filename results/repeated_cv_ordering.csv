@@ -1,0 +1,6 @@
+against,model,mean_delta,fraction_ahead
+"Peaks, position + prominence",ridge,0.07306378928718524,0.95
+Raw spectra (SNV),ridge,0.27182148479510854,0.95
+SG 2nd derivative,ridge,0.05141037756685516,0.8
+Persistence image,ridge,0.6695981240640285,1.0
+Family mean,ridge,0.05348154229536935,0.75

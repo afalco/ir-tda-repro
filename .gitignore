@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# The characterisation workbook and its reference list belong to the laboratory
+# that produced the study and are not redistributed. The extract of them written
+# by scripts/00_export_native.py -- spectra_native.npz, tg_native.npz and
+# references.csv -- carries only the columns the analysis reads and IS tracked,
+# so that steps 1 and 6 reproduce without the workbook. See the README.
+data/raw/Resultados Informe.xlsx
+data/raw/references.txt

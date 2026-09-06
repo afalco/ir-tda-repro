@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software or the analysis it implements, please cite both the
+  archived release and the accompanying paper.
+title: >-
+  ir-tda: topological descriptors of infrared spectra for formulated polymer
+  compounds
+abstract: >-
+  Persistent homology applied to the IR/ATR spectra of 39 industrial footwear
+  sole compounds. Implements exact degree-0 persistence of the superlevel-set
+  filtration of a spectrum by union-find, the classical persistence image, and
+  a position-aware variant over wavenumber and lifetime, together with the
+  clustering, robustness, property-prediction, multimodal and control analyses
+  reported in the paper.
+type: software
+authors:
+  - given-names: Miriam
+    family-names: Esteve-Campello
+    affiliation: >-
+      Departamento de Matemáticas, Física y Ciencias Tecnológicas, Universidad
+      Cardenal Herrera-CEU, CEU Universities, Valencia, Spain
+    orcid: 'https://orcid.org/0000-0002-5908-0581'
+  - given-names: Miguel
+    family-names: Macià-Titos
+    affiliation: >-
+      Desínope 323, Martín i Soler 18, Planta 2, Oficina 9, 03203 Elche, Spain
+  - given-names: Pascual
+    family-names: Martínez-Ibáñez
+    affiliation: >-
+      Desínope 323, Martín i Soler 18, Planta 2, Oficina 9, 03203 Elche, Spain
+    orcid: 'https://orcid.org/0000-0003-0837-507X'
+  - given-names: Antonio
+    family-names: Falcó
+    email: afalco@uchceu.es
+    affiliation: >-
+      Departamento de Matemáticas, Física y Ciencias Tecnológicas, Universidad
+      Cardenal Herrera-CEU, CEU Universities, Valencia, Spain
+    orcid: 'https://orcid.org/0000-0001-6225-0935'
+# Fill in after the first release, when Zenodo has minted the DOI:
+#   version: 1.0.0
+#   date-released: 'YYYY-MM-DD'
+#   doi: 10.5281/zenodo.XXXXXXXX
+license: MIT
+repository-code: 'https://github.com/afalco/ir-tda-repro'
+keywords:
+  - topological data analysis
+  - persistent homology
+  - persistence images
+  - infrared spectroscopy
+  - chemometrics
+  - polymer compounds
+  - material identification

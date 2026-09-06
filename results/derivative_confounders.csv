@@ -1,0 +1,9 @@
+comparison,ARI
+clustering vs family,1.0
+clustering vs supplier,0.43938201014494627
+clustering vs colour,0.05915658195080274
+family vs supplier,0.43938201014494627
+family vs colour,0.05915658195080274
+TPU: distinct clusters,1.0
+PUR: distinct clusters,1.0
+TR: distinct clusters,1.0

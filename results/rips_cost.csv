@@ -1,0 +1,5 @@
+construction,points,seconds
+Vietoris-Rips,300,0.06599072520039044
+Vietoris-Rips,600,0.4971937836002326
+Vietoris-Rips,1000,2.160999159399944
+lower-star (union-find),3600,0.004604508564135848

@@ -1,0 +1,40 @@
+sheet,reference,description,description_en,supplier,family,n_points_raw,wavenumber_min_raw,wavenumber_max_raw
+3,3,2 Planchas C/gris marcada como Hi-react PU Pikolinos,"2 grey sheets, labelled Hi-react PU",Cicasa,PUR,3632,499.473,4000.6
+4,4,2 Planchas C/crudo marcada como Hi-react PU Pikolinos,"2 natural sheets, labelled Hi-react PU",Cicasa,PUR,3632,499.4729,4000.6047
+5,5,4 Planchas de Eva amarillo,4 yellow EVA sheets,Majoma,EVA,3632,499.4729,4000.6047
+13,13,8 pares TR marrón CLO/7922/65,"8 brown TR pairs, CLO/7922/65",Pekes,TR,3632,499.4729,4000.6047
+14,14,8 pares TR marrón Matex-09/65/A1375/s,"8 brown TR pairs, Matex-09/65/A1375/s",Pekes,TR,3632,499.473,4000.6
+15,15,8 pares TR marrón PK-0142/70,"8 brown TR pairs, PK-0142/70",Pekes,TR,3632,499.473,4000.6
+16,16,8 pares TPU crudo D65 EPAMOULD,"8 natural TPU pairs, D65 EPAMOULD",Pekes,TPU,3632,499.4729,4000.6047
+17,17,8 pares TPU crudo D75 HUSMAN D85 EPAMOULD D65 50%,"8 natural TPU pairs, D75 HUSMAN D85 EPAMOULD D65 50%",Pekes,TPU,3632,499.473,4000.6
+18,18,8 pares TPU crudo 185A56 EXPAMOULD,"8 natural TPU pairs, 185A56 EXPAMOULD",Pekes,TPU,3632,499.473,4000.6
+19,19,8 pares TPU transparente 185A56 EPAMOULD,"8 clear TPU pairs, 185A56 EPAMOULD",Pekes,TPU,3632,499.473,4000.6
+20,20,8 pares TPU transparente D75 HUSMAN D85 EPAMOULD D65 50%,"8 clear TPU pairs, D75 HUSMAN D85 EPAMOULD D65 50%",Pekes,TPU,3632,499.473,4000.6
+21,21,8 pares TPU transparente D65 EPAMOULD,"8 clear TPU pairs, D65 EPAMOULD",Pekes,TPU,3632,499.473,4000.6
+25,25,9 muestras PVC negro,9 black PVC samples,Analco,PVC,3632,499.473,4000.6
+27,27,6 planchas EVA negro MII relleno,"6 black EVA sheets, MII, filled",Analco,EVA,3632,499.473,4000.6
+30,30,5 planchas PUR negro BK lavado,"5 black PUR sheets, BK, washed",Analco,PUR,3632,499.473,4000.6
+31,31,5 planchas PUR negro BL lavado,"5 black PUR sheets, BL, washed",Analco,PUR,3632,499.473,4000.6
+32,32,5 planchas PUR negro COR lavado,"5 black PUR sheets, COR, washed",Analco,PUR,3632,499.473,4000.6
+33,33,5 planchas PUR negro PL lavado,"5 black PUR sheets, PL, washed",Analco,PUR,3632,499.473,4000.6
+34,34,5 planchas PUR negro BK sin lavar,"5 black PUR sheets, BK, unwashed",Analco,PUR,3632,499.473,4000.6
+35,35,5 planchas PUR negro BY sin lavar,"5 black PUR sheets, BY, unwashed",Analco,PUR,3632,499.473,4000.6
+38,38,5 planchas PUR negro BL sin lavar,"5 black PUR sheets, BL, unwashed",Analco,PUR,3632,499.473,4000.6
+39,39,5 planchas PUR negro PL sin lavar,"5 black PUR sheets, PL, unwashed",Analco,PUR,3632,499.473,4000.6
+40,40,3 planchas caucho marrón LATEX,"3 brown rubber sheets, LATEX",Ruiz Alejos,RUBBER,3632,499.473,4000.6
+45,45,15 planchas TR negro R-C42 68,"15 black TR sheets, R-C42 68",Ruiz Alejos,TR,3632,499.473,4000.6
+57,57,15 planchas TR caramelo TPS1 75,"15 tan TR sheets, TPS1 75",Urban,TR,3632,499.473,4000.6
+59,59,15 planchas TR caramelo CSHT HP 60,"15 tan TR sheets, CSHT HP 60",Urban,TR,3632,499.473,4000.6
+63,63,15 planchas TPU negro EPAPLEX 75,"15 black TPU sheets, EPAPLEX 75",Urban,TPU,3632,499.473,4000.6
+64,64,15 planchas TPU negro APAN ML75,"15 black TPU sheets, APAN ML75",Urban,TPU,3632,499.473,4000.6
+66,66,15 planchas TPU negro A70NP50,"15 black TPU sheets, A70NP50",Urban,TPU,3632,499.473,4000.6
+67,67,15 planchas TPU negro MH 80 ST,"15 black TPU sheets, MH 80 ST",Urban,TPU,3632,499.473,4000.6
+69,69,15 planchas TPU negro AVALON 65 AE,"15 black TPU sheets, AVALON 65 AE",Urban,TPU,3632,499.473,4000.6
+70,70,15 planchas TPU negro WHT 85,"15 black TPU sheets, WHT 85",Urban,TPU,3632,499.473,4000.6
+71,71,15 planchas TPU negro A 52 7011,"15 black TPU sheets, A 52 7011",Urban,TPU,3632,499.473,4000.6
+73,73,15 planchas TPU caramelo A70 NP50,"15 tan TPU sheets, A70 NP50",Urban,TPU,3632,499.473,4000.6
+75,75,15 planchas TPU caramelo APAN ML75,"15 tan TPU sheets, APAN ML75",Urban,TPU,3632,499.473,4000.6
+76,76,15 planchas TPU caramelo APAFLEX 75,"15 tan TPU sheets, APAFLEX 75",Urban,TPU,3632,499.473,4000.6
+79,79,15 planchas TPU caramelo MH 80 ST,"15 tan TPU sheets, MH 80 ST",Urban,TPU,3632,499.473,4000.6
+80,80,15 planchas TPU caramelo AVALON 85 AE,"15 tan TPU sheets, AVALON 85 AE",Urban,TPU,3632,499.473,4000.6
+H4965,47,15 planchas TR negro H49 65,"15 black TR sheets, H49 65",Ruiz Alejos,TR,3632,499.473,4000.6

@@ -1,0 +1,241 @@
+artefact,level,amplitude,representation,retrieval,sd
+wavenumber shift,0.0,0.0,SNV,1.0,0.0
+wavenumber shift,0.0,0.0,SG 1st derivative,1.0,0.0
+wavenumber shift,0.0,0.0,SG 2nd derivative,1.0,0.0
+wavenumber shift,0.0,0.0,ALS baseline + SNV,1.0,0.0
+wavenumber shift,0.0,0.0,EMSC,1.0,0.0
+wavenumber shift,0.0,0.0,Fourier magnitude,1.0,0.0
+wavenumber shift,0.0,0.0,TFI,1.0,0.0
+wavenumber shift,0.0,0.0,peaks: + prominence,1.0,0.0
+wavenumber shift,0.0,0.0,"raw, aligned (global)",1.0,0.0
+wavenumber shift,0.0,0.0,"raw, aligned (intervals)",1.0,0.0
+wavenumber shift,0.25,4.0,SNV,0.9914529914529916,0.0120872954048982
+wavenumber shift,0.25,4.0,SG 1st derivative,0.7948717948717948,0.0725237724293895
+wavenumber shift,0.25,4.0,SG 2nd derivative,0.6666666666666666,0.0725237724293895
+wavenumber shift,0.25,4.0,ALS baseline + SNV,0.8974358974358975,0.0209358097673776
+wavenumber shift,0.25,4.0,EMSC,0.9743589743589745,0.0362618862146947
+wavenumber shift,0.25,4.0,Fourier magnitude,1.0,0.0
+wavenumber shift,0.25,4.0,TFI,0.9487179487179486,1.1102230246251563e-16
+wavenumber shift,0.25,4.0,peaks: + prominence,0.9487179487179486,1.1102230246251563e-16
+wavenumber shift,0.25,4.0,"raw, aligned (global)",0.982905982905983,0.0120872954048982
+wavenumber shift,0.25,4.0,"raw, aligned (intervals)",1.0,0.0
+wavenumber shift,0.5,8.0,SNV,0.905982905982906,0.0319799776647345
+wavenumber shift,0.5,8.0,SG 1st derivative,0.5384615384615384,0.0209358097673776
+wavenumber shift,0.5,8.0,SG 2nd derivative,0.4188034188034188,0.0241745908097964
+wavenumber shift,0.5,8.0,ALS baseline + SNV,0.717948717948718,0.0362618862146947
+wavenumber shift,0.5,8.0,EMSC,0.8034188034188033,0.0672992125983915
+wavenumber shift,0.5,8.0,Fourier magnitude,1.0,0.0
+wavenumber shift,0.5,8.0,TFI,0.9743589743589745,0.0
+wavenumber shift,0.5,8.0,peaks: + prominence,0.9743589743589745,0.0
+wavenumber shift,0.5,8.0,"raw, aligned (global)",0.982905982905983,0.0120872954048982
+wavenumber shift,0.5,8.0,"raw, aligned (intervals)",0.982905982905983,0.0120872954048982
+wavenumber shift,0.75,12.0,SNV,0.8119658119658121,0.052687299170675
+wavenumber shift,0.75,12.0,SG 1st derivative,0.4444444444444444,0.063959955329469
+wavenumber shift,0.75,12.0,SG 2nd derivative,0.2991452991452991,0.0604364770244912
+wavenumber shift,0.75,12.0,ALS baseline + SNV,0.7094017094017094,0.063959955329469
+wavenumber shift,0.75,12.0,EMSC,0.7350427350427351,0.052687299170675
+wavenumber shift,0.75,12.0,Fourier magnitude,1.0,0.0
+wavenumber shift,0.75,12.0,TFI,0.982905982905983,0.0120872954048982
+wavenumber shift,0.75,12.0,peaks: + prominence,0.982905982905983,0.0120872954048982
+wavenumber shift,0.75,12.0,"raw, aligned (global)",1.0,0.0
+wavenumber shift,0.75,12.0,"raw, aligned (intervals)",0.982905982905983,0.0120872954048982
+wavenumber shift,1.0,16.0,SNV,0.7948717948717948,0.0209358097673775
+wavenumber shift,1.0,16.0,SG 1st derivative,0.3846153846153846,0.0418716195347551
+wavenumber shift,1.0,16.0,SG 2nd derivative,0.2222222222222222,0.0120872954048982
+wavenumber shift,1.0,16.0,ALS baseline + SNV,0.6666666666666666,0.0209358097673775
+wavenumber shift,1.0,16.0,EMSC,0.717948717948718,0.0418716195347552
+wavenumber shift,1.0,16.0,Fourier magnitude,1.0,0.0
+wavenumber shift,1.0,16.0,TFI,0.9658119658119658,0.0120872954048982
+wavenumber shift,1.0,16.0,peaks: + prominence,0.9658119658119658,0.0120872954048982
+wavenumber shift,1.0,16.0,"raw, aligned (global)",0.9914529914529916,0.0120872954048982
+wavenumber shift,1.0,16.0,"raw, aligned (intervals)",0.9743589743589745,0.0209358097673776
+baseline drift,0.0,0.0,SNV,1.0,0.0
+baseline drift,0.0,0.0,SG 1st derivative,1.0,0.0
+baseline drift,0.0,0.0,SG 2nd derivative,1.0,0.0
+baseline drift,0.0,0.0,ALS baseline + SNV,1.0,0.0
+baseline drift,0.0,0.0,EMSC,1.0,0.0
+baseline drift,0.0,0.0,Fourier magnitude,1.0,0.0
+baseline drift,0.0,0.0,TFI,1.0,0.0
+baseline drift,0.0,0.0,peaks: + prominence,1.0,0.0
+baseline drift,0.0,0.0,"raw, aligned (global)",1.0,0.0
+baseline drift,0.0,0.0,"raw, aligned (intervals)",1.0,0.0
+baseline drift,0.25,0.1,SNV,0.8376068376068376,0.052687299170675
+baseline drift,0.25,0.1,SG 1st derivative,1.0,0.0
+baseline drift,0.25,0.1,SG 2nd derivative,1.0,0.0
+baseline drift,0.25,0.1,ALS baseline + SNV,1.0,0.0
+baseline drift,0.25,0.1,EMSC,1.0,0.0
+baseline drift,0.25,0.1,Fourier magnitude,0.1794871794871795,0.0362618862146947
+baseline drift,0.25,0.1,TFI,0.7777777777777777,0.0241745908097964
+baseline drift,0.25,0.1,peaks: + prominence,0.7264957264957265,0.0435813633640409
+baseline drift,0.25,0.1,"raw, aligned (global)",0.8290598290598291,0.052687299170675
+baseline drift,0.25,0.1,"raw, aligned (intervals)",0.8376068376068376,0.052687299170675
+baseline drift,0.5,0.2,SNV,0.6581196581196581,0.052687299170675
+baseline drift,0.5,0.2,SG 1st derivative,1.0,0.0
+baseline drift,0.5,0.2,SG 2nd derivative,1.0,0.0
+baseline drift,0.5,0.2,ALS baseline + SNV,1.0,0.0
+baseline drift,0.5,0.2,EMSC,1.0,0.0
+baseline drift,0.5,0.2,Fourier magnitude,0.1196581196581196,0.0241745908097965
+baseline drift,0.5,0.2,TFI,0.5897435897435898,0.0209358097673776
+baseline drift,0.5,0.2,peaks: + prominence,0.5641025641025641,0.0553909461402381
+baseline drift,0.5,0.2,"raw, aligned (global)",0.6581196581196581,0.052687299170675
+baseline drift,0.5,0.2,"raw, aligned (intervals)",0.6581196581196581,0.052687299170675
+baseline drift,0.75,0.3,SNV,0.5726495726495727,0.0639599553294691
+baseline drift,0.75,0.3,SG 1st derivative,1.0,0.0
+baseline drift,0.75,0.3,SG 2nd derivative,1.0,0.0
+baseline drift,0.75,0.3,ALS baseline + SNV,1.0,0.0
+baseline drift,0.75,0.3,EMSC,1.0,0.0
+baseline drift,0.75,0.3,Fourier magnitude,0.0854700854700854,0.0319799776647345
+baseline drift,0.75,0.3,TFI,0.5042735042735043,0.0604364770244912
+baseline drift,0.75,0.3,peaks: + prominence,0.4871794871794871,0.0912570790771907
+baseline drift,0.75,0.3,"raw, aligned (global)",0.5641025641025642,0.0754851356096397
+baseline drift,0.75,0.3,"raw, aligned (intervals)",0.5555555555555557,0.0672992125983915
+baseline drift,1.0,0.4,SNV,0.5128205128205128,0.0959399329942036
+baseline drift,1.0,0.4,SG 1st derivative,1.0,0.0
+baseline drift,1.0,0.4,SG 2nd derivative,1.0,0.0
+baseline drift,1.0,0.4,ALS baseline + SNV,1.0,0.0
+baseline drift,1.0,0.4,EMSC,1.0,0.0
+baseline drift,1.0,0.4,Fourier magnitude,0.0598290598290598,0.0319799776647345
+baseline drift,1.0,0.4,TFI,0.4957264957264957,0.052687299170675
+baseline drift,1.0,0.4,peaks: + prominence,0.4017094017094016,0.0604364770244912
+baseline drift,1.0,0.4,"raw, aligned (global)",0.5042735042735043,0.0871627267280817
+baseline drift,1.0,0.4,"raw, aligned (intervals)",0.4786324786324785,0.0846110678342877
+additive noise,0.0,0.0,SNV,1.0,0.0
+additive noise,0.0,0.0,SG 1st derivative,1.0,0.0
+additive noise,0.0,0.0,SG 2nd derivative,1.0,0.0
+additive noise,0.0,0.0,ALS baseline + SNV,1.0,0.0
+additive noise,0.0,0.0,EMSC,1.0,0.0
+additive noise,0.0,0.0,Fourier magnitude,1.0,0.0
+additive noise,0.0,0.0,TFI,1.0,0.0
+additive noise,0.0,0.0,peaks: + prominence,1.0,0.0
+additive noise,0.25,0.0125,SNV,1.0,0.0
+additive noise,0.25,0.0125,SG 1st derivative,1.0,0.0
+additive noise,0.25,0.0125,SG 2nd derivative,1.0,0.0
+additive noise,0.25,0.0125,ALS baseline + SNV,1.0,0.0
+additive noise,0.25,0.0125,EMSC,1.0,0.0
+additive noise,0.25,0.0125,Fourier magnitude,1.0,0.0
+additive noise,0.25,0.0125,TFI,0.7777777777777777,0.0241745908097964
+additive noise,0.25,0.0125,peaks: + prominence,0.7777777777777777,0.0435813633640408
+additive noise,0.5,0.025,SNV,1.0,0.0
+additive noise,0.5,0.025,SG 1st derivative,0.9914529914529916,0.0120872954048982
+additive noise,0.5,0.025,SG 2nd derivative,0.9658119658119658,0.0241745908097965
+additive noise,0.5,0.025,ALS baseline + SNV,0.982905982905983,0.0120872954048982
+additive noise,0.5,0.025,EMSC,1.0,0.0
+additive noise,0.5,0.025,Fourier magnitude,1.0,0.0
+additive noise,0.5,0.025,TFI,0.5555555555555555,0.0319799776647345
+additive noise,0.5,0.025,peaks: + prominence,0.4786324786324785,0.052687299170675
+additive noise,0.75,0.0375,SNV,1.0,0.0
+additive noise,0.75,0.0375,SG 1st derivative,0.9572649572649572,0.0241745908097964
+additive noise,0.75,0.0375,SG 2nd derivative,0.9145299145299144,0.0672992125983915
+additive noise,0.75,0.0375,ALS baseline + SNV,0.9743589743589745,0.0
+additive noise,0.75,0.0375,EMSC,1.0,0.0
+additive noise,0.75,0.0375,Fourier magnitude,1.0,0.0
+additive noise,0.75,0.0375,TFI,0.2820512820512821,0.0362618862146947
+additive noise,0.75,0.0375,peaks: + prominence,0.1794871794871795,0.0209358097673775
+additive noise,1.0,0.05,SNV,1.0,0.0
+additive noise,1.0,0.05,SG 1st derivative,0.8974358974358975,0.0362618862146947
+additive noise,1.0,0.05,SG 2nd derivative,0.8632478632478632,0.0319799776647345
+additive noise,1.0,0.05,ALS baseline + SNV,0.923076923076923,1.1102230246251563e-16
+additive noise,1.0,0.05,EMSC,0.9914529914529916,0.0120872954048982
+additive noise,1.0,0.05,Fourier magnitude,1.0,0.0
+additive noise,1.0,0.05,TFI,0.1196581196581196,0.0120872954048982
+additive noise,1.0,0.05,peaks: + prominence,0.1025641025641025,0.0209358097673775
+intensity envelope,0.0,0.0,SNV,1.0,0.0
+intensity envelope,0.0,0.0,SG 1st derivative,1.0,0.0
+intensity envelope,0.0,0.0,SG 2nd derivative,1.0,0.0
+intensity envelope,0.0,0.0,ALS baseline + SNV,1.0,0.0
+intensity envelope,0.0,0.0,EMSC,1.0,0.0
+intensity envelope,0.0,0.0,Fourier magnitude,1.0,0.0
+intensity envelope,0.0,0.0,TFI,1.0,0.0
+intensity envelope,0.0,0.0,peaks: + prominence,1.0,0.0
+intensity envelope,0.0,0.0,"raw, aligned (global)",1.0,0.0
+intensity envelope,0.0,0.0,"raw, aligned (intervals)",1.0,0.0
+intensity envelope,0.25,0.125,SNV,0.905982905982906,0.0120872954048982
+intensity envelope,0.25,0.125,SG 1st derivative,1.0,0.0
+intensity envelope,0.25,0.125,SG 2nd derivative,1.0,0.0
+intensity envelope,0.25,0.125,ALS baseline + SNV,0.982905982905983,0.0120872954048982
+intensity envelope,0.25,0.125,EMSC,0.9487179487179486,0.0209358097673775
+intensity envelope,0.25,0.125,Fourier magnitude,0.7863247863247863,0.0483491816195929
+intensity envelope,0.25,0.125,TFI,0.4102564102564103,0.0754851356096397
+intensity envelope,0.25,0.125,peaks: + prominence,0.6324786324786325,0.0435813633640408
+intensity envelope,0.25,0.125,"raw, aligned (global)",0.905982905982906,0.0120872954048982
+intensity envelope,0.25,0.125,"raw, aligned (intervals)",0.905982905982906,0.0120872954048982
+intensity envelope,0.5,0.25,SNV,0.7264957264957265,0.052687299170675
+intensity envelope,0.5,0.25,SG 1st derivative,0.9658119658119658,0.0120872954048982
+intensity envelope,0.5,0.25,SG 2nd derivative,1.0,0.0
+intensity envelope,0.5,0.25,ALS baseline + SNV,0.9487179487179486,0.0209358097673775
+intensity envelope,0.5,0.25,EMSC,0.7777777777777777,0.0435813633640408
+intensity envelope,0.5,0.25,Fourier magnitude,0.547008547008547,0.0944047950186945
+intensity envelope,0.5,0.25,TFI,0.4358974358974359,0.0362618862146947
+intensity envelope,0.5,0.25,peaks: + prominence,0.5299145299145299,0.0241745908097965
+intensity envelope,0.5,0.25,"raw, aligned (global)",0.7264957264957265,0.052687299170675
+intensity envelope,0.5,0.25,"raw, aligned (intervals)",0.7264957264957265,0.052687299170675
+intensity envelope,0.75,0.375,SNV,0.5213675213675214,0.052687299170675
+intensity envelope,0.75,0.375,SG 1st derivative,0.9572649572649572,0.0241745908097964
+intensity envelope,0.75,0.375,SG 2nd derivative,0.9743589743589745,0.0209358097673776
+intensity envelope,0.75,0.375,ALS baseline + SNV,0.8803418803418803,0.063959955329469
+intensity envelope,0.75,0.375,EMSC,0.5726495726495727,0.0639599553294691
+intensity envelope,0.75,0.375,Fourier magnitude,0.3418803418803418,0.0435813633640409
+intensity envelope,0.75,0.375,TFI,0.282051282051282,0.0959399329942036
+intensity envelope,0.75,0.375,peaks: + prominence,0.358974358974359,0.0754851356096397
+intensity envelope,0.75,0.375,"raw, aligned (global)",0.5213675213675214,0.052687299170675
+intensity envelope,0.75,0.375,"raw, aligned (intervals)",0.5299145299145299,0.052687299170675
+intensity envelope,1.0,0.5,SNV,0.452991452991453,0.0672992125983915
+intensity envelope,1.0,0.5,SG 1st derivative,0.923076923076923,0.0209358097673775
+intensity envelope,1.0,0.5,SG 2nd derivative,0.9572649572649572,0.0319799776647345
+intensity envelope,1.0,0.5,ALS baseline + SNV,0.7606837606837606,0.063959955329469
+intensity envelope,1.0,0.5,EMSC,0.5299145299145298,0.0120872954048982
+intensity envelope,1.0,0.5,Fourier magnitude,0.3162393162393162,0.0319799776647345
+intensity envelope,1.0,0.5,TFI,0.1794871794871795,0.0362618862146947
+intensity envelope,1.0,0.5,peaks: + prominence,0.2735042735042735,0.0435813633640408
+intensity envelope,1.0,0.5,"raw, aligned (global)",0.452991452991453,0.0672992125983915
+intensity envelope,1.0,0.5,"raw, aligned (intervals)",0.4444444444444444,0.0792616965426983
+additive noise,0.0,0.0,SNV [adaptive],1.0,0.0
+additive noise,0.0,0.0,SG 1st derivative [adaptive],1.0,0.0
+additive noise,0.0,0.0,SG 2nd derivative [adaptive],1.0,0.0
+additive noise,0.0,0.0,ALS baseline + SNV [adaptive],1.0,0.0
+additive noise,0.0,0.0,EMSC [adaptive],1.0,0.0
+additive noise,0.0,0.0,Fourier magnitude [adaptive],1.0,0.0
+additive noise,0.0,0.0,TFI [adaptive],1.0,0.0
+additive noise,0.0,0.0,peaks: + prominence [adaptive],1.0,0.0
+additive noise,0.0,0.0,"raw, aligned (global)",1.0,0.0
+additive noise,0.0,0.0,"raw, aligned (intervals)",1.0,0.0
+additive noise,0.25,0.0125,SNV [adaptive],1.0,0.0
+additive noise,0.25,0.0125,SG 1st derivative [adaptive],1.0,0.0
+additive noise,0.25,0.0125,SG 2nd derivative [adaptive],1.0,0.0
+additive noise,0.25,0.0125,ALS baseline + SNV [adaptive],1.0,0.0
+additive noise,0.25,0.0125,EMSC [adaptive],1.0,0.0
+additive noise,0.25,0.0125,Fourier magnitude [adaptive],1.0,0.0
+additive noise,0.25,0.0125,TFI [adaptive],0.8376068376068376,0.012087295404898257
+additive noise,0.25,0.0125,peaks: + prominence [adaptive],0.7777777777777777,0.04358136336404088
+additive noise,0.25,0.0125,"raw, aligned (global)",1.0,0.0
+additive noise,0.25,0.0125,"raw, aligned (intervals)",1.0,0.0
+additive noise,0.5,0.025,SNV [adaptive],1.0,0.0
+additive noise,0.5,0.025,SG 1st derivative [adaptive],0.9914529914529915,0.012087295404898257
+additive noise,0.5,0.025,SG 2nd derivative [adaptive],0.9658119658119658,0.024174590809796514
+additive noise,0.5,0.025,ALS baseline + SNV [adaptive],0.982905982905983,0.012087295404898257
+additive noise,0.5,0.025,EMSC [adaptive],1.0,0.0
+additive noise,0.5,0.025,Fourier magnitude [adaptive],1.0,0.0
+additive noise,0.5,0.025,TFI [adaptive],0.6581196581196581,0.08461106783428775
+additive noise,0.5,0.025,peaks: + prominence [adaptive],0.47863247863247854,0.05268729917067501
+additive noise,0.5,0.025,"raw, aligned (global)",1.0,0.0
+additive noise,0.5,0.025,"raw, aligned (intervals)",0.982905982905983,0.012087295404898257
+additive noise,0.75,0.037500000000000006,SNV [adaptive],1.0,0.0
+additive noise,0.75,0.037500000000000006,SG 1st derivative [adaptive],0.9572649572649573,0.024174590809796462
+additive noise,0.75,0.037500000000000006,SG 2nd derivative [adaptive],0.9145299145299145,0.06729921259839154
+additive noise,0.75,0.037500000000000006,ALS baseline + SNV [adaptive],0.9743589743589743,0.0
+additive noise,0.75,0.037500000000000006,EMSC [adaptive],1.0,0.0
+additive noise,0.75,0.037500000000000006,Fourier magnitude [adaptive],1.0,0.0
+additive noise,0.75,0.037500000000000006,TFI [adaptive],0.4871794871794872,0.06280742930213278
+additive noise,0.75,0.037500000000000006,peaks: + prominence [adaptive],0.1794871794871795,0.020935809767377585
+additive noise,0.75,0.037500000000000006,"raw, aligned (global)",1.0,0.0
+additive noise,0.75,0.037500000000000006,"raw, aligned (intervals)",0.982905982905983,0.012087295404898257
+additive noise,1.0,0.05,SNV [adaptive],1.0,0.0
+additive noise,1.0,0.05,SG 1st derivative [adaptive],0.8974358974358975,0.036261886214694776
+additive noise,1.0,0.05,SG 2nd derivative [adaptive],0.8632478632478632,0.031979977664734566
+additive noise,1.0,0.05,ALS baseline + SNV [adaptive],0.923076923076923,1.1102230246251565e-16
+additive noise,1.0,0.05,EMSC [adaptive],0.9914529914529915,0.012087295404898257
+additive noise,1.0,0.05,Fourier magnitude [adaptive],1.0,0.0
+additive noise,1.0,0.05,TFI [adaptive],0.3247863247863248,0.031979977664734545
+additive noise,1.0,0.05,peaks: + prominence [adaptive],0.10256410256410257,0.020935809767377585
+additive noise,1.0,0.05,"raw, aligned (global)",1.0,0.0
+additive noise,1.0,0.05,"raw, aligned (intervals)",0.982905982905983,0.012087295404898257

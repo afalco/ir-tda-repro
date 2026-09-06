@@ -1,0 +1,181 @@
+artefact,level,amplitude,representation,retrieval,sd
+wavenumber shift,0.0,0.0,TFI,1.0,0.0
+wavenumber shift,0.0,0.0,PI,1.0,0.0
+wavenumber shift,0.0,0.0,peaks: position,1.0,0.0
+wavenumber shift,0.0,0.0,peaks: + intensity,1.0,0.0
+wavenumber shift,0.0,0.0,peaks: + width,1.0,0.0
+wavenumber shift,0.0,0.0,peaks: + area,1.0,0.0
+wavenumber shift,0.0,0.0,peaks: + prominence,1.0,0.0
+wavenumber shift,0.0,0.0,peaks: all five,1.0,0.0
+wavenumber shift,0.0,0.0,raw spectra,1.0,0.0
+wavenumber shift,0.25,4.0,TFI,0.9487179487179486,1.1102230246251563e-16
+wavenumber shift,0.25,4.0,PI,1.0,0.0
+wavenumber shift,0.25,4.0,peaks: position,1.0,0.0
+wavenumber shift,0.25,4.0,peaks: + intensity,1.0,0.0
+wavenumber shift,0.25,4.0,peaks: + width,1.0,0.0
+wavenumber shift,0.25,4.0,peaks: + area,0.923076923076923,0.0209358097673775
+wavenumber shift,0.25,4.0,peaks: + prominence,0.9487179487179486,1.1102230246251563e-16
+wavenumber shift,0.25,4.0,peaks: all five,1.0,0.0
+wavenumber shift,0.25,4.0,raw spectra,0.9914529914529916,0.0120872954048982
+wavenumber shift,0.5,8.0,TFI,0.9743589743589745,0.0
+wavenumber shift,0.5,8.0,PI,1.0,0.0
+wavenumber shift,0.5,8.0,peaks: position,1.0,0.0
+wavenumber shift,0.5,8.0,peaks: + intensity,1.0,0.0
+wavenumber shift,0.5,8.0,peaks: + width,1.0,0.0
+wavenumber shift,0.5,8.0,peaks: + area,0.94017094017094,0.0120872954048982
+wavenumber shift,0.5,8.0,peaks: + prominence,0.9743589743589745,0.0
+wavenumber shift,0.5,8.0,peaks: all five,1.0,0.0
+wavenumber shift,0.5,8.0,raw spectra,0.905982905982906,0.0319799776647345
+wavenumber shift,0.75,12.0,TFI,0.982905982905983,0.0120872954048982
+wavenumber shift,0.75,12.0,PI,1.0,0.0
+wavenumber shift,0.75,12.0,peaks: position,1.0,0.0
+wavenumber shift,0.75,12.0,peaks: + intensity,1.0,0.0
+wavenumber shift,0.75,12.0,peaks: + width,1.0,0.0
+wavenumber shift,0.75,12.0,peaks: + area,0.9487179487179488,0.0362618862146947
+wavenumber shift,0.75,12.0,peaks: + prominence,0.982905982905983,0.0120872954048982
+wavenumber shift,0.75,12.0,peaks: all five,1.0,0.0
+wavenumber shift,0.75,12.0,raw spectra,0.8119658119658121,0.052687299170675
+wavenumber shift,1.0,16.0,TFI,0.9658119658119658,0.0120872954048982
+wavenumber shift,1.0,16.0,PI,1.0,0.0
+wavenumber shift,1.0,16.0,peaks: position,0.982905982905983,0.0120872954048982
+wavenumber shift,1.0,16.0,peaks: + intensity,0.982905982905983,0.0120872954048982
+wavenumber shift,1.0,16.0,peaks: + width,1.0,0.0
+wavenumber shift,1.0,16.0,peaks: + area,0.9487179487179488,0.0362618862146947
+wavenumber shift,1.0,16.0,peaks: + prominence,0.9658119658119658,0.0120872954048982
+wavenumber shift,1.0,16.0,peaks: all five,1.0,0.0
+wavenumber shift,1.0,16.0,raw spectra,0.7948717948717948,0.0209358097673775
+additive noise,0.0,0.0,TFI,1.0,0.0
+additive noise,0.0,0.0,PI,1.0,0.0
+additive noise,0.0,0.0,peaks: position,1.0,0.0
+additive noise,0.0,0.0,peaks: + intensity,1.0,0.0
+additive noise,0.0,0.0,peaks: + width,1.0,0.0
+additive noise,0.0,0.0,peaks: + area,1.0,0.0
+additive noise,0.0,0.0,peaks: + prominence,1.0,0.0
+additive noise,0.0,0.0,peaks: all five,1.0,0.0
+additive noise,0.0,0.0,raw spectra,1.0,0.0
+additive noise,0.25,0.0125,TFI,0.7777777777777777,0.0241745908097964
+additive noise,0.25,0.0125,PI,0.1025641025641025,1.3877787807814457e-17
+additive noise,0.25,0.0125,peaks: position,0.0256410256410256,3.469446951953614e-18
+additive noise,0.25,0.0125,peaks: + intensity,0.2735042735042735,0.0120872954048982
+additive noise,0.25,0.0125,peaks: + width,0.1025641025641025,0.0209358097673775
+additive noise,0.25,0.0125,peaks: + area,0.6581196581196581,0.0319799776647345
+additive noise,0.25,0.0125,peaks: + prominence,0.7777777777777777,0.0435813633640408
+additive noise,0.25,0.0125,peaks: all five,0.5811965811965812,0.0319799776647345
+additive noise,0.25,0.0125,raw spectra,1.0,0.0
+additive noise,0.5,0.025,TFI,0.5555555555555555,0.0319799776647345
+additive noise,0.5,0.025,PI,0.0256410256410256,3.469446951953614e-18
+additive noise,0.5,0.025,peaks: position,0.0256410256410256,3.469446951953614e-18
+additive noise,0.5,0.025,peaks: + intensity,0.1111111111111111,0.0120872954048982
+additive noise,0.5,0.025,peaks: + width,0.0769230769230769,0.0
+additive noise,0.5,0.025,peaks: + area,0.5213675213675214,0.0319799776647345
+additive noise,0.5,0.025,peaks: + prominence,0.4786324786324785,0.052687299170675
+additive noise,0.5,0.025,peaks: all five,0.4957264957264957,0.0241745908097964
+additive noise,0.5,0.025,raw spectra,1.0,0.0
+additive noise,0.75,0.0375,TFI,0.2820512820512821,0.0362618862146947
+additive noise,0.75,0.0375,PI,0.0256410256410256,3.469446951953614e-18
+additive noise,0.75,0.0375,peaks: position,0.0256410256410256,3.469446951953614e-18
+additive noise,0.75,0.0375,peaks: + intensity,0.0341880341880341,0.0120872954048982
+additive noise,0.75,0.0375,peaks: + width,0.0598290598290598,0.0120872954048982
+additive noise,0.75,0.0375,peaks: + area,0.376068376068376,0.0319799776647345
+additive noise,0.75,0.0375,peaks: + prominence,0.1794871794871795,0.0209358097673775
+additive noise,0.75,0.0375,peaks: all five,0.3504273504273504,0.0319799776647345
+additive noise,0.75,0.0375,raw spectra,1.0,0.0
+additive noise,1.0,0.05,TFI,0.1196581196581196,0.0120872954048982
+additive noise,1.0,0.05,PI,0.0256410256410256,3.469446951953614e-18
+additive noise,1.0,0.05,peaks: position,0.0256410256410256,3.469446951953614e-18
+additive noise,1.0,0.05,peaks: + intensity,0.0256410256410256,3.469446951953614e-18
+additive noise,1.0,0.05,peaks: + width,0.0512820512820512,0.0209358097673775
+additive noise,1.0,0.05,peaks: + area,0.2905982905982906,0.048349181619593
+additive noise,1.0,0.05,peaks: + prominence,0.1025641025641025,0.0209358097673775
+additive noise,1.0,0.05,peaks: all five,0.2393162393162392,0.0241745908097964
+additive noise,1.0,0.05,raw spectra,1.0,0.0
+baseline drift,0.0,0.0,TFI,1.0,0.0
+baseline drift,0.0,0.0,PI,1.0,0.0
+baseline drift,0.0,0.0,peaks: position,1.0,0.0
+baseline drift,0.0,0.0,peaks: + intensity,1.0,0.0
+baseline drift,0.0,0.0,peaks: + width,1.0,0.0
+baseline drift,0.0,0.0,peaks: + area,1.0,0.0
+baseline drift,0.0,0.0,peaks: + prominence,1.0,0.0
+baseline drift,0.0,0.0,peaks: all five,1.0,0.0
+baseline drift,0.0,0.0,raw spectra,1.0,0.0
+baseline drift,0.25,0.1,TFI,0.7777777777777777,0.0241745908097964
+baseline drift,0.25,0.1,PI,0.7863247863247863,0.0241745908097964
+baseline drift,0.25,0.1,peaks: position,0.9145299145299144,0.0319799776647345
+baseline drift,0.25,0.1,peaks: + intensity,0.8205128205128206,1.1102230246251563e-16
+baseline drift,0.25,0.1,peaks: + width,0.547008547008547,0.048349181619593
+baseline drift,0.25,0.1,peaks: + area,0.5726495726495727,0.048349181619593
+baseline drift,0.25,0.1,peaks: + prominence,0.7264957264957265,0.0435813633640409
+baseline drift,0.25,0.1,peaks: all five,0.8461538461538461,0.0209358097673776
+baseline drift,0.25,0.1,raw spectra,0.8376068376068376,0.052687299170675
+baseline drift,0.5,0.2,TFI,0.5897435897435898,0.0209358097673776
+baseline drift,0.5,0.2,PI,0.5811965811965812,0.0319799776647345
+baseline drift,0.5,0.2,peaks: position,0.8119658119658119,0.0120872954048982
+baseline drift,0.5,0.2,peaks: + intensity,0.6068376068376069,0.0120872954048982
+baseline drift,0.5,0.2,peaks: + width,0.5128205128205128,0.0418716195347551
+baseline drift,0.5,0.2,peaks: + area,0.4102564102564103,0.0628074293021327
+baseline drift,0.5,0.2,peaks: + prominence,0.5641025641025641,0.0553909461402381
+baseline drift,0.5,0.2,peaks: all five,0.6837606837606837,0.0735241475815609
+baseline drift,0.5,0.2,raw spectra,0.6581196581196581,0.052687299170675
+baseline drift,0.75,0.3,TFI,0.5042735042735043,0.0604364770244912
+baseline drift,0.75,0.3,PI,0.4358974358974359,0.0553909461402381
+baseline drift,0.75,0.3,peaks: position,0.5982905982905983,0.0871627267280818
+baseline drift,0.75,0.3,peaks: + intensity,0.5042735042735044,0.10537459834135
+baseline drift,0.75,0.3,peaks: + width,0.4871794871794871,0.0
+baseline drift,0.75,0.3,peaks: + area,0.3333333333333333,0.0754851356096397
+baseline drift,0.75,0.3,peaks: + prominence,0.4871794871794871,0.0912570790771907
+baseline drift,0.75,0.3,peaks: all five,0.6324786324786325,0.0435813633640408
+baseline drift,0.75,0.3,raw spectra,0.5726495726495727,0.0639599553294691
+baseline drift,1.0,0.4,TFI,0.4957264957264957,0.052687299170675
+baseline drift,1.0,0.4,PI,0.3418803418803418,0.0319799776647345
+baseline drift,1.0,0.4,peaks: position,0.5555555555555555,0.0735241475815609
+baseline drift,1.0,0.4,peaks: + intensity,0.3846153846153846,0.0553909461402381
+baseline drift,1.0,0.4,peaks: + width,0.3333333333333333,0.0209358097673775
+baseline drift,1.0,0.4,peaks: + area,0.3247863247863248,0.0435813633640409
+baseline drift,1.0,0.4,peaks: + prominence,0.4017094017094016,0.0604364770244912
+baseline drift,1.0,0.4,peaks: all five,0.5726495726495725,0.0672992125983915
+baseline drift,1.0,0.4,raw spectra,0.5128205128205128,0.0959399329942036
+intensity envelope,0.0,0.0,TFI,1.0,0.0
+intensity envelope,0.0,0.0,PI,1.0,0.0
+intensity envelope,0.0,0.0,peaks: position,1.0,0.0
+intensity envelope,0.0,0.0,peaks: + intensity,1.0,0.0
+intensity envelope,0.0,0.0,peaks: + width,1.0,0.0
+intensity envelope,0.0,0.0,peaks: + area,1.0,0.0
+intensity envelope,0.0,0.0,peaks: + prominence,1.0,0.0
+intensity envelope,0.0,0.0,peaks: all five,1.0,0.0
+intensity envelope,0.0,0.0,raw spectra,1.0,0.0
+intensity envelope,0.25,0.125,TFI,0.4102564102564103,0.07548513560963971
+intensity envelope,0.25,0.125,PI,0.4871794871794872,0.08374323906951037
+intensity envelope,0.25,0.125,peaks: position,0.94017094017094,0.04358136336404088
+intensity envelope,0.25,0.125,peaks: + intensity,0.7521367521367521,0.03197997766473452
+intensity envelope,0.25,0.125,peaks: + width,0.7777777777777778,0.012087295404898205
+intensity envelope,0.25,0.125,peaks: + area,0.4871794871794872,0.11078189228047626
+intensity envelope,0.25,0.125,peaks: + prominence,0.6324786324786325,0.04358136336404088
+intensity envelope,0.25,0.125,peaks: all five,0.8632478632478633,0.06395995532946909
+intensity envelope,0.25,0.125,raw spectra,0.905982905982906,0.012087295404898257
+intensity envelope,0.5,0.25,TFI,0.4358974358974359,0.03626188621469475
+intensity envelope,0.5,0.25,PI,0.26495726495726496,0.031979977664734545
+intensity envelope,0.5,0.25,peaks: position,0.6495726495726496,0.08716272672808181
+intensity envelope,0.5,0.25,peaks: + intensity,0.5384615384615384,0.04187161953475519
+intensity envelope,0.5,0.25,peaks: + width,0.5982905982905983,0.06395995532946909
+intensity envelope,0.5,0.25,peaks: + area,0.23931623931623927,0.08716272672808179
+intensity envelope,0.5,0.25,peaks: + prominence,0.5299145299145299,0.024174590809796514
+intensity envelope,0.5,0.25,peaks: all five,0.5811965811965812,0.031979977664734566
+intensity envelope,0.5,0.25,raw spectra,0.7264957264957265,0.05268729917067501
+intensity envelope,0.75,0.375,TFI,0.28205128205128205,0.09593993299420363
+intensity envelope,0.75,0.375,PI,0.15384615384615385,0.03626188621469475
+intensity envelope,0.75,0.375,peaks: position,0.4102564102564103,0.020935809767377585
+intensity envelope,0.75,0.375,peaks: + intensity,0.358974358974359,0.020935809767377606
+intensity envelope,0.75,0.375,peaks: + width,0.5811965811965812,0.04358136336404093
+intensity envelope,0.75,0.375,peaks: + area,0.2735042735042735,0.031979977664734545
+intensity envelope,0.75,0.375,peaks: + prominence,0.358974358974359,0.07548513560963974
+intensity envelope,0.75,0.375,peaks: all five,0.5384615384615384,0.055390946140238144
+intensity envelope,0.75,0.375,raw spectra,0.5213675213675214,0.05268729917067501
+intensity envelope,1.0,0.5,TFI,0.1794871794871795,0.03626188621469475
+intensity envelope,1.0,0.5,PI,0.09401709401709402,0.04834918161959299
+intensity envelope,1.0,0.5,peaks: position,0.2564102564102564,0.055390946140238116
+intensity envelope,1.0,0.5,peaks: + intensity,0.26495726495726496,0.012087295404898257
+intensity envelope,1.0,0.5,peaks: + width,0.4615384615384615,0.04187161953475517
+intensity envelope,1.0,0.5,peaks: + area,0.23931623931623933,0.012087295404898231
+intensity envelope,1.0,0.5,peaks: + prominence,0.2735042735042735,0.043581363364040886
+intensity envelope,1.0,0.5,peaks: all five,0.4358974358974359,0.04187161953475517
+intensity envelope,1.0,0.5,raw spectra,0.452991452991453,0.06729921259839154
