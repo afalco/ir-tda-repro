@@ -38,7 +38,7 @@ authors:
     orcid: 'https://orcid.org/0000-0001-6225-0935'
 version: 1.2.1
 date-released: '2026-09-06'
-doi: 10.5281/zenodo.22537164  # replace with the v1.2.1 DOI after the release
+doi: 10.5281/zenodo.22550235
 license: MIT
 repository-code: 'https://github.com/afalco/ir-tda-repro'
 keywords:
